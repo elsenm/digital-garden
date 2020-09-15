@@ -1,0 +1,82 @@
+site_name: 博慎的數位花園
+site_url: https://www.marvin-elsen.com/garden
+site_description: Todo
+site_author: Marvin Elsen
+copyright: Copyright &copy; 2020 Marvin Elsen
+docs_dir: vimwiki
+site_dir: site
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+    name: material
+    features:
+        - instant
+        - tabs
+    palette:
+        #scheme: youtube
+    font:
+        text: Roboto
+        code: Roboto Mono
+    language: en
+extra_css:
+    - stylesheets/extra.css
+plugins:
+    - search
+    - minify:
+        minify_html: true
+markdown_extensions:
+    - meta
+    - attr_list
+    - admonition
+    - pymdownx.details
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:contact@marvin-elsen.com
+      name: Send me an eMail
+
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/elsen_marvin
+      name: Follow me on Twitter
+
+    - icon: fontawesome/brands/keybase
+      link: https://keybase.io/elsenm
+      name: Send me an encrypted message on Keybase
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/elsenm
+      name: Take a look at my code over on GitHub
+
+    - icon: fontawesome/brands/stack-exchange
+      link: https://stackexchange.com/users/16526518/elsenm
+      name: View my Stack Exchange profile
+
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/cv/marvin-elsen
+      name: View my Stack Overflow profile
+
+    - icon: fontawesome/brands/xing
+      link: https://www.xing.com/profile/Marvin_Elsen2
+      name: Connect with me on XING
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/marvin-elsen
+      name: Connect with me on LinkedIn
+
+    - icon: fontawesome/brands/line
+      link: https://line.me/ti/p/fw6_p8JvX_
+      name: Chat with me on LINE
+
+    - icon: fontawesome/regular/comment-dots
+      link: https://threema.id/MF5ZZ4RB
+      name: Chat with me on Threema
+
+    - icon: fontawesome/brands/reddit-alien
+      link: https://www.reddit.com/user/elsenm
+      name: Follow me on reddit
