@@ -5,11 +5,16 @@ site_author: Marvin Elsen
 copyright: Copyright &copy; 2020 Marvin Elsen
 docs_dir: vimwiki
 site_dir: site
+repo_url: https://github.com/elsenm/digital-garden
+repo_name: elsenm/digital-garden
+edit_uri: ""
 nav:
     - Home: index.md
     - About: about.md
 theme:
     name: material
+    icon:
+        repo: fontawesome/brands/github-alt
     features:
         - instant
         - tabs
@@ -25,6 +30,7 @@ plugins:
     - search
     - minify:
         minify_html: true
+    - git-revision-date
 markdown_extensions:
     - meta
     - attr_list
