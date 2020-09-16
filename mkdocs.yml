@@ -15,6 +15,7 @@ nav:
     - About: about.md
 theme:
     name: material
+    favicon: images/favicon.ico
     icon:
         repo: fontawesome/brands/github-alt
     features:
