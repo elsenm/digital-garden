@@ -11,8 +11,20 @@ repo_url: https://github.com/elsenm/digital-garden
 repo_name: elsenm/digital-garden
 edit_uri: ""
 nav:
-    - Home: index.md
-    - About: about.md
+    - Introduction: index.md
+    - Chinese:
+        - Overview: overview.md
+        - Zhuyin: zhuyin.md
+    - Programming:
+        - Overview: overview.md
+        - Python: python.md
+        - Java: java.md
+    - Software:
+        - Overview: overview.md
+        - Toolbox: toolbox.md
+        - vim: vim.md
+    - Troubleshoot:
+        - Overview: overview.md
 theme:
     name: material
     favicon: images/favicon.ico
@@ -36,6 +48,9 @@ plugins:
     - git-revision-date
 markdown_extensions:
     - meta
+    - toc:
+        permalink: "#"
+        baselevel: 2
     - attr_list
     - admonition
     - pymdownx.details

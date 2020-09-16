@@ -1,9 +1,7 @@
 ---
 title: Introduction
-author: Lyz
+author: Marvin Elsen
 ---
-
-# Introduction
 
 I am Marvin Elsen.
 
