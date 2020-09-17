@@ -19,6 +19,7 @@ This is a list of software I use.
 | Personal accounting  | [HomeBank](http://homebank.free.fr)                                                            |
 | Search utility       | [fsearch](https://github.com/cboxdoerfer/fsearch)                                              |
 | Terminal emulator    | [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html)                               |
+| Compositor           | [picom](https://github.com/yshui/picom)                                                        |
 
 # Media
 | Type                   | Name                                                                                           |
