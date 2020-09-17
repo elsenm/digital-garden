@@ -12,19 +12,8 @@ repo_name: elsenm/digital-garden
 edit_uri: ""
 nav:
     - Introduction: index.md
-    - Chinese:
-        - Overview: overview.md
-        - Zhuyin: zhuyin.md
-    - Programming:
-        - Overview: overview.md
-        - Python: python.md
-        - Java: java.md
     - Software:
-        - Overview: overview.md
         - Toolbox: toolbox.md
-        - vim: vim.md
-    - Troubleshoot:
-        - Overview: overview.md
 theme:
     name: material
     favicon: images/favicon.ico
