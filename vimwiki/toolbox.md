@@ -18,7 +18,7 @@ This is a list of software I use.
 | IRC client           | [HexChat](https://hexchat.github.io)                                                           |
 | Personal accounting  | [HomeBank](http://homebank.free.fr)                                                            |
 | Search utility       | [fsearch](https://github.com/cboxdoerfer/fsearch)                                              |
-| Terminal emulator    | [rxvt-unicode](software.schmorp.de/pkg/rxvt-unicode.html)                                      |
+| Terminal emulator    | [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html)                               |
 
 # Media
 | Type                   | Name                                                                                           |
