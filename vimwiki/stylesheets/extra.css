@@ -1,12 +1,10 @@
-[data-md-color-scheme="youtube"] {
-    --md-primary-fg-color:               #EE0F0F;
-    --md-primary-fg-color--light:        #EE0F0F;
-    --md-primary-fg-color--dark:         #EE0F0F;
-    --md-primary-bg-color:               #EE0F0F;
-    --md-primary-bg-color--light:        #EE0F0F;
+[data-md-color-scheme="digital-garden"] {
+    --md-primary-fg-color:        #108761;
+    --md-primary-fg-color--light: #12946B;
+    --md-primary-fg-color--dark:  #0D6E4F;
 
-    --md-accent-fg-color:                #EE0F0F;
-    --md-accent-fg-color--transparent:   #EE0F0F;
-    --md-accent-bg-color:                #EE0F0F;
-    --md-accent-bg-color--light:         #EE0F0F;
+    --md-primary-bg-color:        #FFFFFF;
+    --md-primary-bg-color--light: #FFFFFF;
+
+    --md-accent-fg-color: #D42F5F;
 }

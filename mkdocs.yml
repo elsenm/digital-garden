@@ -24,7 +24,7 @@ theme:
         - instant
         - tabs
     palette:
-        #scheme: youtube
+        scheme: digital-garden
     font:
         text: Roboto
         code: Roboto Mono
