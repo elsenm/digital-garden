@@ -5,31 +5,33 @@ This is a list of software I use.
 | Type                 | Name                                                                                                 |
 |----------------------|------------------------------------------------------------------------------------------------------|
 | Operating system     | [elementary OS](https://elementary.io), [Arch Linux](https://www.archlinux.org), Windows 10, Android |
-| Desktop environment  | [Pantheon](https://elementary.io), none (Arch Linux)                                                 |
-| Window manager       | [Gala](https://elementary.io), [i3-gaps](https://github.com/Airblader/i3)                            |
+| Desktop environment  | none                                                                                                 |
+| Window manager       | [Openbox](http://openbox.org/wiki/Main_Page), [i3-gaps](https://github.com/Airblader/i3)             |
 | Compositor           | [picom](https://github.com/yshui/picom)                                                              |
+| Notification daemon  | [dunst](https://dunst-project.org/)                                                                  |
 | File manager         | [PCManFM](https://wiki.lxde.org/en/PCManFM)                                                          |
-| Search utility       | [fsearch](https://github.com/cboxdoerfer/fsearch)                                                    |
-| Dock                 | [Plank](https://launchpad.net/plank)                                                                 |
-| Password manager     | [KeePassXC](https://keepassxc.org)                                                                   |
 | File synchronization | [Syncthing](https://syncthing.net/)                                                                  |
+| Search utility       | [fsearch](https://github.com/cboxdoerfer/fsearch)                                                    |
+| Application launcher | [rofi](https://github.com/davatorium/rofi)                                                           |
+| Panel                | [tint2](https://gitlab.com/o9000/tint2), [polybar](https://polybar.github.io/)                       |
+| Dock                 | [Plank](https://launchpad.net/plank)                                                                 |
 | Hypervisor           | [VirtualBox](https://www.virtualbox.org/)                                                            |
 | Gesture recognition  | [Easystroke](https://github.com/thjaeger/easystroke/wiki)                                            |
 
 ## Terminal
-| Type                 | Name                                                             |
-|----------------------|------------------------------------------------------------------|
-| Terminal emulator    | [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) |
-| Shell                | [fish](https://fishshell.com)                                    |
-| Text editor          | [vim](https://www.vim.org)                                       |
-| File manager         | [ranger](https://ranger.github.io)                               |
-| File archiver        | [7-Zip](https://www.7-zip.org/)                                  |
-| System information   | [Neofetch](https://github.com/dylanaraps/neofetch)               |
-| Terminal multiplexer | [tmux](https://tmux.github.io)                                   |
-| Process viewer       | [htop](https://htop.dev/)                                        |
-| System monitor       | [Glances](https://nicolargo.github.io/glances/)                  |
-| Backup               | [rsync](https://rsync.samba.org/)                                |
-| Package management   | [Flatpak](https://flatpak.org/)                                  |
+| Type                 | Name                                                                                      |
+|----------------------|-------------------------------------------------------------------------------------------|
+| Terminal emulator    | [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html)                          |
+| Shell                | [fish](https://fishshell.com)                                                             |
+| Text editor          | [vim](https://www.vim.org)                                                                |
+| File manager         | [ranger](https://ranger.github.io), [Midnight Commander](https://midnight-commander.org/) |
+| File archiver        | [7-Zip](https://www.7-zip.org/)                                                           |
+| System information   | [Neofetch](https://github.com/dylanaraps/neofetch)                                        |
+| Terminal multiplexer | [tmux](https://tmux.github.io)                                                            |
+| Process viewer       | [htop](https://htop.dev/)                                                                 |
+| System monitor       | [Glances](https://nicolargo.github.io/glances/)                                           |
+| Backup               | [rsync](https://rsync.samba.org/)                                                         |
+| Package management   | [Flatpak](https://flatpak.org/)                                                           |
 
 # Office
 | Type                | Name                                                                       |
@@ -71,19 +73,23 @@ This is a list of software I use.
 | Converter              | [ffmpeg](https://www.ffmpeg.org) (CLI)                                                                 |
 | CD ripper              | [Asunder](http://littlesvr.ca/asunder/index.php)                                                       |
 | Image optimization     | [jpegoptim](https://github.com/tjko/jpegoptim) (CLI), [OptiPNG](http://optipng.sourceforge.net/) (CLI) |
+| Audio visualizer       | [CAVA](https://github.com/karlstav/cava) (CLI)                                                         |
 
 # Software Development
-| Type                   | Name                                             |
-|------------------------|--------------------------------------------------|
-| Java IDE               | [IntelliJ IDEA](https://www.jetbrains.com/idea)  |
-| Python IDE             | [PyCharm](https://www.jetbrains.com/pycharm)     |
-| Version control system | [Git](https://git-scm.com)                       |
-| Build automation       | [Apache Maven](https://maven.apache.org/)        |
-| UML                    | [UMLet](https://www.umlet.com)                   |
-| Diagrams               | [draw.io](https://app.diagrams.net)              |
-| Code review            | [Gerrit](https://www.gerritcodereview.com/)      |
-| Project management     | [OpenProject](https://www.openproject.org/)      |
-| Game engine            | [Godot](https://godotengine.org/)                |
+| Type                   | Name                                                                                          |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| Java IDE               | [IntelliJ IDEA](https://www.jetbrains.com/idea)                                               |
+| Python IDE             | [PyCharm](https://www.jetbrains.com/pycharm)                                                  |
+| Version control system | [Git](https://git-scm.com)                                                                    |
+| Build automation       | [Apache Maven](https://maven.apache.org/)                                                     |
+| UML                    | [UMLet](https://www.umlet.com)                                                                |
+| Diagrams               | [draw.io](https://app.diagrams.net)                                                           |
+| Code review            | [Gerrit](https://www.gerritcodereview.com/)                                                   |
+| Project management     | [OpenProject](https://www.openproject.org/)                                                   |
+| Game engine            | [Godot](https://godotengine.org/)                                                             |
+| Color scheme           | [gruvbox](https://github.com/morhetz/gruvbox)                                                 |
+| Font                   | [Hack](https://sourcefoundry.org/hack/), [JetBrains Mono](https://www.jetbrains.com/lp/mono/) |
+| Bitmap font            | [scientifica](https://github.com/NerdyPepper/scientifica)                                     |
 
 # Education
 | Type                 | Name                                                                       |
@@ -95,11 +101,17 @@ This is a list of software I use.
 | Bibliography manager | [JabRef](http://www.jabref.org/)                                           |
 
 # Security
-| Type              | Name                                    |
-|-------------------|-----------------------------------------|
-| Network discovery | [nmap](https://nmap.org/)               |
-| Packet analyzer   | [Wireshark](https://www.wireshark.org/) |
-| OpenPGP           | [GnuPG](https://gnupg.org/)             |
+| Type              | Name                                                                                       |
+|-------------------|--------------------------------------------------------------------------------------------|
+| Password manager  | [KeePassXC](https://keepassxc.org)                                                         |
+| SSH               | [OpenSSH](https://www.openssh.com/)                                                        |
+| TLS               | [LibreSSL](https://www.libressl.org/)                                                      |
+| OpenPGP           | [GnuPG](https://gnupg.org/)                                                                |
+| Firewall          | [iptables](https://www.netfilter.org/)                                                     |
+| Network discovery | [nmap](https://nmap.org/)                                                                  |
+| Packet analyzer   | [Wireshark](https://www.wireshark.org/)                                                    |
+| Wifi cracker      | [Aircrack-ng](https://www.aircrack-ng.org/)                                                |
+| Password cracker  | [John the Ripper](https://www.openwall.com/john/), [hashcat](https://hashcat.net/hashcat/) |
 
 # Gaming
 | Type                 | Name                                                                                       |
@@ -114,3 +126,11 @@ This is a list of software I use.
 | Engine            | [Quakespasm](http://quakespasm.sourceforge.net/)      |
 | Level editor      | [Trenchbroom](https://kristianduske.com/trenchbroom/) |
 | Map compile tools | [ericw-tools](https://ericwa.github.io/ericw-tools/)  |
+
+## Minecraft
+| Type             | Name                                           |
+|------------------|------------------------------------------------|
+| Server           | [Paper](https://papermc.io/)                   |
+| Hack client      | [Future](https://futureclient.net/index.php)   |
+| Texture pack     | [Bare Bones](https://www.robotpantaloons.com/) |
+| Optimization mod | [OptiFine](https://optifine.net/home)          |
