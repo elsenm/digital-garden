@@ -13,8 +13,15 @@ nav:
     - Home:
         - Introduction: index.md
         - License: license.md
+    - Chinese:
+        - Grammar: grammar.md
+        - Flashcards:
+            - General: flashcards.md
+            - Anki: anki.md
+            - Pleco: pleco.md
     - Software:
         - Toolbox: toolbox.md
+        - SSH: ssh.md
 theme:
     name: material
     favicon: images/favicon.ico
