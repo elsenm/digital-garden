@@ -34,16 +34,16 @@ This is a list of software I use.
 | Package management   | [Flatpak](https://flatpak.org/)                                                           |
 
 # Office
-| Type                | Name                                                                       |
-|---------------------|----------------------------------------------------------------------------|
-| Office suite        | [LibreOffice](https://www.libreoffice.org)                                 |
-| Document viewer     | [zathura](https://pwmt.org/projects/zathura)                               |
-| Personal accounting | [HomeBank](http://homebank.free.fr)                                        |
-| Wiki                | [vimwiki](https://github.com/vimwiki/vimwiki), [Zim](https://zim-wiki.org) |
-| Document converter  | [pandoc](https://pandoc.org/) (CLI)                                        |
-| Document scanner    | [gscan2pdf](http://gscan2pdf.sourceforge.net/)                             |
-| Time tracking       | [Timewarrior](https://timewarrior.net/) (CLI)                              |
-| Mind map            | [Freeplane](https://www.freeplane.org/wiki/index.php/Home)                 |
+| Type                | Name                                                                             |
+|---------------------|----------------------------------------------------------------------------------|
+| Office suite        | [LibreOffice](https://www.libreoffice.org)                                       |
+| Document viewer     | [zathura](https://pwmt.org/projects/zathura)                                     |
+| Personal accounting | [Ledger](https://www.ledger-cli.org/) (CLI), [HomeBank](http://homebank.free.fr) |
+| Wiki                | [vimwiki](https://github.com/vimwiki/vimwiki), [Zim](https://zim-wiki.org)       |
+| Document converter  | [pandoc](https://pandoc.org/) (CLI)                                              |
+| Document scanner    | [gscan2pdf](http://gscan2pdf.sourceforge.net/)                                   |
+| Time tracking       | [Timewarrior](https://timewarrior.net/) (CLI)                                    |
+| Mind map            | [Freeplane](https://www.freeplane.org/wiki/index.php/Home)                       |
 
 # Internet
 | Type               | Name                                                                   |
