@@ -12,6 +12,7 @@ edit_uri: ""
 nav:
     - Home:
         - Introduction: index.md
+        - Contact: contact.md
         - License: license.md
     - Chinese:
         - Grammar: grammar.md

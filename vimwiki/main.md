@@ -14,6 +14,7 @@
 ## Software
 * [Toolbox](toolbox.md): _Tools that I use_
 * [SSH](ssh.md)
+* [ffmpeg](ffmpeg.md)
 
 
 ## Troubleshoot
@@ -21,4 +22,5 @@
 
 ## Other
 * [License](license.md)
+* [Contact](contact.md)
 
