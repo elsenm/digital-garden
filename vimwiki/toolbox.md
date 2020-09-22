@@ -134,3 +134,10 @@ This is a list of software I use.
 | Hack client      | [Future](https://futureclient.net/index.php)   |
 | Texture pack     | [Bare Bones](https://www.robotpantaloons.com/) |
 | Optimization mod | [OptiFine](https://optifine.net/home)          |
+
+# Software Backlog
+This is software I currently do not use, but find interesting and want to check out in the future.
+
+| Type                 | Name                         |
+|----------------------|------------------------------|
+| Household management | [grocy](https://grocy.info/) |

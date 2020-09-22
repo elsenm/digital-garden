@@ -14,7 +14,6 @@
 ## Software
 * [Toolbox](toolbox.md): _Tools that I use_
 * [SSH](ssh.md)
-* [ffmpeg](ffmpeg.md)
 
 
 ## Troubleshoot
