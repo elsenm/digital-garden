@@ -13,6 +13,7 @@ nav:
     - Home:
         - Introduction: index.md
         - Contact: contact.md
+        - Disclaimer: disclaimer.md
         - License: license.md
     - Chinese:
         - Grammar: grammar.md

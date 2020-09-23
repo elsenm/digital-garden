@@ -1,3 +1,6 @@
+!!! attention "Disclaimer"
+    This list is not endorsed by, directly affiliated with, associated with, or in any other way officially connected with, maintained, authorized or sponsored by any other product, service, brand, company or person. All product, service, brand and company names as well as related names, marks, emblems and images are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+
 This is a list of software I use.
 
 # Core

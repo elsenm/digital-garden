@@ -22,5 +22,6 @@
 
 ## Other
 * [License](license.md)
+* [Disclaimer](disclaimer.md)
 * [Contact](contact.md)
 
