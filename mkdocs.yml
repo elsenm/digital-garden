@@ -23,6 +23,7 @@ nav:
     - Software:
         - Toolbox: toolbox.md
         - SSH: ssh.md
+        - Java Web Start: java_web_start.md
 theme:
     name: material
     favicon: images/favicon.ico
@@ -49,6 +50,7 @@ markdown_extensions:
     - toc:
         permalink: "#"
         baselevel: 2
+    - def_list
     - attr_list
     - admonition
     - pymdownx.details

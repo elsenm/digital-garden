@@ -4,19 +4,22 @@ OpenSSH can be used as a [SOCKS](https://en.wikipedia.org/wiki/SOCKS) proxy. Bot
 To start the SOCKS server on your `localhost` run the following command in your terminal after replacing the placeholders:
 
 ```shell
-ssh -D PORT -N USER@TARGET_HOST
+ssh -ND BINDING_ADDRESS:PORT USER@TARGET_HOST
 ```
 
 ??? info "Explanation"
-    1. `-D PORT`: opens the SOCKS proxy on the local port `PORT`. This will tell `ssh` to act as secure tunnel to `TARGET_HOST` and use `USER` to authenticate.
-    2. `-N`: do not execute a remote command. This is useful for just forwarding ports.
+    `-N`
+    :   Do not execute a remote command. This is useful for just forwarding ports.
+    
+    `-D BINDING_ADDRESS:PORT`
+    :   Opens the SOCKS proxy on the local address `BINDING_ADDRESS` on port `PORT`. This will tell `ssh` to act as secure tunnel to `TARGET_HOST` and use `USER` to authenticate.
 
-The aforementioned command will start the SOCKS proxy server on the given port on the local machine. To connect to it, simply configure the proxy settings of your client (web browser or other application) to connect to `localhost:PORT` via either SOCKS4 or SOCKS5.
+The aforementioned command will start the SOCKS proxy server on the given port on the local machine. To connect to it, simply configure the proxy settings of your client (web browser or other application) to connect to `BINDING_ADDRESS:PORT` via either SOCKS4 or SOCKS5.
 
 ??? example
     The following line will open a SOCKS proxy server on `localhost` on port `1080` that will send all traffic via the SOCKS protocol using a secure SSH tunnel to the target host `marvin-elsen.com` where a `sshd` daemon is running, which in turn will forward the traffic to its original destination. To authenticate with the `sshd` daemon the user `marvin` is used.
     ```shell
-    ssh -D 1080 -N marvin@marvin-elsen.com
+    ssh -ND localhost:1080 marvin@marvin-elsen.com
     ```
 
 ## Sources
