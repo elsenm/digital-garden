@@ -29,6 +29,7 @@ theme:
     name: material
     favicon: images/favicon.ico
     icon:
+        logo: fontawesome/solid/seedling
         repo: fontawesome/brands/github-alt
     features:
         - instant
