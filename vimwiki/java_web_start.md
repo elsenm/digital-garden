@@ -5,7 +5,7 @@ To uninstall all applications installed via [Java Web Start (JWS)](https://en.wi
 javaws -uninstall
 ```
 
-??? info "Explanation"
+!!! info "Explanation"
     `-uninstall` 
     :   Remove all applications from the cache.
     
