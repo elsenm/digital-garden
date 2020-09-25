@@ -25,6 +25,7 @@ nav:
         - Toolbox: toolbox.md
         - SSH: ssh.md
         - Java Web Start: java_web_start.md
+        - Adblock: adblock.md
 theme:
     name: material
     favicon: images/favicon.ico

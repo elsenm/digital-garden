@@ -15,6 +15,7 @@
 * [Toolbox](toolbox.md): _Tools that I use_
 * [SSH](ssh.md)
 * [Java Web Start](java_web_start.md)
+* [Adblock](adblock.md)
 
 
 ## Troubleshoot
