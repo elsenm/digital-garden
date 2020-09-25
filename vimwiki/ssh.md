@@ -7,7 +7,7 @@ To start the SOCKS server on your `localhost` run the following command in your 
 ssh -ND BINDING_ADDRESS:PORT USER@TARGET_HOST
 ```
 
-??? info "Explanation"
+!!! info "Explanation"
     `-N`
     :   Do not execute a remote command. This is useful for just forwarding ports.
     
@@ -16,7 +16,7 @@ ssh -ND BINDING_ADDRESS:PORT USER@TARGET_HOST
 
 The aforementioned command will start the SOCKS proxy server on the given port on the local machine. To connect to it, simply configure the proxy settings of your client (web browser or other application) to connect to `BINDING_ADDRESS:PORT` via either SOCKS4 or SOCKS5.
 
-??? example
+!!! example
     The following line will open a SOCKS proxy server on `localhost` on port `1080` that will send all traffic via the SOCKS protocol using a secure SSH tunnel to the target host `marvin-elsen.com` where a `sshd` daemon is running, which in turn will forward the traffic to its original destination. To authenticate with the `sshd` daemon the user `marvin` is used.
     ```shell
     ssh -ND localhost:1080 marvin@marvin-elsen.com
