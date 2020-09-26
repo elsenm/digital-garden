@@ -17,15 +17,14 @@ nav:
         - License: license.md
     - Chinese:
         - Grammar: grammar.md
-        - Flashcards:
-            - General: flashcards.md
-            - Anki: anki.md
-            - Pleco: pleco.md
+        - Anki: anki.md
+        - Pleco: pleco.md
     - Software:
         - Toolbox: toolbox.md
         - SSH: ssh.md
         - Java Web Start: java_web_start.md
         - Adblock: adblock.md
+        - Website: website.md
 theme:
     name: material
     favicon: images/favicon.ico

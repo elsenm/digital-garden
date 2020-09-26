@@ -2,10 +2,9 @@
 * [Introduction](index.md)
 
 ## Chinese
-* [Flashcards](flashcards.md)
-    * [Anki](anki.md)
-    * [Pleco](pleco.md)
 * [Grammar](grammar.md)
+* [Anki](anki.md)
+* [Pleco](pleco.md)
 
 
 ## Programming
@@ -16,6 +15,7 @@
 * [SSH](ssh.md)
 * [Java Web Start](java_web_start.md)
 * [Adblock](adblock.md)
+* [Website](website.md)
 
 
 ## Troubleshoot
