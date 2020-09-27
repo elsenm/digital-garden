@@ -131,12 +131,13 @@ This is a list of software I use.
 | Map compile tools | [ericw-tools](https://ericwa.github.io/ericw-tools/)  |
 
 ## Minecraft
-| Type             | Name                                           |
-|------------------|------------------------------------------------|
-| Server           | [Paper](https://papermc.io/)                   |
-| Hack client      | [Future](https://futureclient.net/index.php)   |
-| Texture pack     | [Bare Bones](https://www.robotpantaloons.com/) |
-| Optimization mod | [OptiFine](https://optifine.net/home)          |
+| Type             | Name                                                     |
+|------------------|----------------------------------------------------------|
+| Server           | [Paper](https://papermc.io/)                             |
+| Hack client      | [Future](https://futureclient.net/index.php)             |
+| Texture pack     | [Bare Bones](https://www.robotpantaloons.com/)           |
+| Shader pack      | [Simplicissimus](https://rre36.github.io/glProjectsWeb/) |
+| Optimization mod | [OptiFine](https://optifine.net/home)                    |
 
 # Software Backlog
 This is software I currently do not use, but find interesting and want to check out in the future.
