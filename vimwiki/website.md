@@ -52,6 +52,10 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
     ExpiresByType image/jpeg "access plus 1 months"
     ExpiresByType image/png "access plus 1 months"
     ExpiresByType image/x-icon "access plus 1 months"
+    ExpiresByType font/woff "access plus 1 months"
+    ExpiresByType font/woff2 "access plus 1 months"
+    ExpiresByType font/ttf "access plus 1 months"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 months"
     ```
 
 ## Sources
