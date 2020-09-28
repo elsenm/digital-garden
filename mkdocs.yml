@@ -36,9 +36,7 @@ theme:
         - tabs
     palette:
         scheme: digital-garden
-    font:
-        text: Roboto
-        code: Roboto Mono
+    font: false
     language: en
 extra_css:
     - stylesheets/extra.css
