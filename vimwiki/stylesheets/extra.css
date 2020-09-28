@@ -168,28 +168,36 @@
 
 @font-face {
   font-family: 'Hack';
-  src: url('../fonts/hack-regular.woff2') format('woff2'), url('fonts/hack-regular.woff') format('woff');
+  src: local('Hack'), local('Hack-Regular'),
+       url('../fonts/hack-regular.woff2') format('woff2'),
+       url('../fonts/hack-regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Hack';
-  src: url('../fonts/hack-bold.woff2') format('woff2'), url('fonts/hack-bold.woff') format('woff');
+  src: local('Hack-Bold'),
+       url('../fonts/hack-bold.woff2') format('woff2'),
+       url('../fonts/hack-bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Hack';
-  src: url('../fonts/hack-italic.woff2') format('woff2'), url('fonts/hack-italic.woff') format('woff');
+  src: local('Hack-Italic'),
+       url('../fonts/hack-italic.woff2') format('woff2'),
+       url('../fonts/hack-italic.woff') format('woff');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Hack';
-  src: url('../fonts/hack-bolditalic.woff2') format('woff2'), url('fonts/hack-bolditalic.woff') format('woff');
+  src: local('Hack-BoldItalic'),
+       url('../fonts/hack-bolditalic.woff2') format('woff2'),
+       url('../fonts/hack-bolditalic.woff') format('woff');
   font-weight: 700;
   font-style: italic;
 }
@@ -228,6 +236,7 @@ img {
 body, input {
   font-family: "Roboto", -apple-system, Helvetica, Arial, sans-serif;
 }
+
 pre, code, kbd {
   font-family: "Hack", SFMono-Regular, Consolas, Menlo, monospace;
 }
