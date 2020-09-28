@@ -37,6 +37,14 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
     ```{.shell linenums="1"}
     # Activate gzip compression of text
     mod_gzip_on Yes
+    
+    # Add correct content-type for fonts
+    AddType application/vnd.ms-fontobject .eot 
+    AddType application/x-font-ttf .ttf
+    AddType application/x-font-opentype .otf
+    AddType application/x-font-woff .woff
+    AddType application/x-font-woff2 .woff2
+    AddType image/svg+xml .svg
 
     # Create file hashes based on the modification time and size.
     # If the modification time or size of the file changes
@@ -52,12 +60,15 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
     ExpiresByType image/jpeg "access plus 1 months"
     ExpiresByType image/png "access plus 1 months"
     ExpiresByType image/x-icon "access plus 1 months"
-    ExpiresByType font/woff "access plus 1 months"
-    ExpiresByType font/woff2 "access plus 1 months"
-    ExpiresByType font/ttf "access plus 1 months"
-    ExpiresByType application/vnd.ms-fontobject "access plus 1 months"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 years"
+    ExpiresByType application/x-font-ttf "access plus 1 years"
+    ExpiresByType application/x-font-opentype "access plus 1 years"
+    ExpiresByType application/x-font-woff "access plus 1 years"
+    ExpiresByType application/x-font-woff2  "access plus 1 years"
+    ExpiresByType image/svg+xml "access plus 1 years"
     ```
 
 ## Sources
 * [So verbessern Sie die Performance Ihrer Webseite über Einstellungen in der .htaccess-Datei](https://www.strato.de/faq/hosting/so-verbessern-sie-die-performance-ihrer-webseite-ueber-einstellungen-in-der-htaccess-datei/)
 * [gzip bei Strato aktivieren ](https://technikkram.net/blog/2013/04/02/gzip-bei-strato-aktivieren/)
+* [How do I leverage browser caching of .woff fonts?](https://stackoverflow.com/a/28148035)
