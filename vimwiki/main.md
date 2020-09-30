@@ -17,7 +17,6 @@
 * [Adblock](adblock.md)
 * [Website](website.md)
 
-
 ## Troubleshoot
 
 
