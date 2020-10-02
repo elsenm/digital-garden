@@ -9,5 +9,5 @@ javaws -uninstall
     `-uninstall` 
     :   Remove all applications from the cache.
     
-## Sources
+# References
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/tools/javaws.htm)

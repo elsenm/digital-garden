@@ -22,6 +22,6 @@ The aforementioned command will start the SOCKS proxy server on the given port o
     ssh -ND localhost:1080 marvin@marvin-elsen.com
     ```
 
-## Sources
+# References
 * [Create a SOCKS proxy on a Linux server with SSH to bypass content filters ](https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/)
 * [OpenSSH manual page](https://man.openbsd.org/ssh)
