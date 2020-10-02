@@ -228,6 +228,9 @@
     --md-primary-bg-color--light: #FFFFFF;
 
     --md-accent-fg-color: #D42F5F;
+
+    --md-footer-fg-color--light: #FFFFFF;
+    --md-footer-fg-color--lighter: #A6A6A6;
 }
 
 img {
