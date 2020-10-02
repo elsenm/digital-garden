@@ -99,4 +99,4 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
 * [So verbessern Sie die Performance Ihrer Webseite über Einstellungen in der .htaccess-Datei](https://www.strato.de/faq/hosting/so-verbessern-sie-die-performance-ihrer-webseite-ueber-einstellungen-in-der-htaccess-datei/)
 * [gzip bei Strato aktivieren ](https://technikkram.net/blog/2013/04/02/gzip-bei-strato-aktivieren/)
 * [How do I leverage browser caching of .woff fonts?](https://stackoverflow.com/a/28148035)
-* [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
+* [A free guide to HTML5 HEAD elements](https://htmlhead.dev/)
