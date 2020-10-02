@@ -6,12 +6,12 @@
     {
       "src": "/images/favicon.svg",
       "type": "image/svg+xml",
-      "sizes": "150x150"
+      "sizes": "any"
     }
   ],
   "start_url": "/",
   "background_color": "#108761",
-  "display": "minimal-ui",
+  "display": "standalone",
   "scope": "/",
   "theme_color": "#108761"
 }
