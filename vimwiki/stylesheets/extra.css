@@ -256,3 +256,11 @@ body, input {
 pre, code, kbd {
   font-family: "Hack", SFMono-Regular, Consolas, Menlo, monospace;
 }
+
+.md-footer-social {
+  &__link {
+    svg {
+      max-height: 48px;
+    }
+  }
+ }

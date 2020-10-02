@@ -26,7 +26,8 @@ nav:
         - Website: website.md
 theme:
     name: material
-    favicon: images/favicon.ico
+    custom_dir: overrides
+    favicon: images/favicon.svg
     icon:
         logo: fontawesome/solid/seedling
         repo: fontawesome/brands/github-alt
