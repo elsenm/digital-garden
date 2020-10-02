@@ -64,6 +64,7 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.tabbed
 extra:
+  manifest: manifest.webmanifest
   social:
     - icon: fontawesome/brands/creative-commons-zero
       link: https://creativecommons.org/publicdomain/zero/1.0/

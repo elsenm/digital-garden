@@ -1,0 +1,17 @@
+{
+  "short_name": "Digital Garden",
+  "name": "Marvin's Digital Garden",
+  "description": "Everything Marvin knows",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#108761",
+  "display": "minimal-ui",
+  "scope": "/",
+  "theme_color": "#108761"
+}
