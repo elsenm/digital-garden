@@ -11,8 +11,6 @@ img {
 }
 ```
 
-## Sources
-* [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
 # Improve font rendering
 Add the following .css code to your stylesheet to improve font-rendering (probably does not work on all devices and browsers):
 ```{.css linenums="1"}
@@ -24,12 +22,6 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 ```
-
-## Sources
-* [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc)
-* [Font Smoothing](https://tailwindcss.com/docs/font-smoothing)
-* [How to apply font anti-alias effects in CSS?](https://stackoverflow.com/questions/17864742/how-to-apply-font-anti-alias-effects-in-css)
-* [font-smooth](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 
 # Improve page speed
 1. Create the `.htaccess` text file in the root directory of the web server.
@@ -68,7 +60,43 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
     ExpiresByType image/svg+xml "access plus 1 years"
     ```
 
-## Sources
+# HEAD Meta
+
+## Minimum
+```{.html linenums="1"}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Marvin's Digital Garden</title>
+```
+
+## Recommended
+```{.html linenums="1"}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Marvin's Digital Garden</title>
+
+<meta name="theme-color" content="#108761">
+<meta name="application-name" content="Marvin's Digital Garden">
+
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+
+<meta name="rating" content="General">
+<meta name="referrer" content="no-referrer">
+
+<link rel="license" href="/license/">
+<link rel="me" href="mailto:contact@marvin-elsen.com">
+```
+
+# References
+* [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
+* [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc)
+* [Font Smoothing](https://tailwindcss.com/docs/font-smoothing)
+* [How to apply font anti-alias effects in CSS?](https://stackoverflow.com/questions/17864742/how-to-apply-font-anti-alias-effects-in-css)
+* [font-smooth](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 * [So verbessern Sie die Performance Ihrer Webseite über Einstellungen in der .htaccess-Datei](https://www.strato.de/faq/hosting/so-verbessern-sie-die-performance-ihrer-webseite-ueber-einstellungen-in-der-htaccess-datei/)
 * [gzip bei Strato aktivieren ](https://technikkram.net/blog/2013/04/02/gzip-bei-strato-aktivieren/)
 * [How do I leverage browser caching of .woff fonts?](https://stackoverflow.com/a/28148035)
+* [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
