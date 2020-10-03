@@ -2,21 +2,21 @@ Except where otherwise noted, content on this site is licensed under a [Creative
 
 ----
 
-```
-Creative Commons Legal Code
 
-CC0 1.0 Universal
+# Creative Commons Legal Code
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+**CC0 1.0 Universal**
 
-Statement of Purpose
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+HEREUNDER.
+
+## Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator
@@ -42,30 +42,32 @@ elects to apply CC0 to the Work and publicly distribute the Work under its
 terms, with knowledge of his or her Copyright and Related Rights in the
 Work and the meaning and intended legal effect of CC0 on those rights.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
+## Copyright and Related Rights
+A Work made available under CC0 may be
 protected by copyright and related or neighboring rights ("Copyright and
 Related Rights"). Copyright and Related Rights include, but are not
 limited to, the following:
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+1. the right to reproduce, adapt, distribute, perform, display,
+        communicate, and translate a Work;
+2. moral rights retained by the original author(s) and/or performer(s);
+3. publicity and privacy rights pertaining to a person's image or
+    likeness depicted in a Work;
+4. rights protecting against unfair competition in regards to a Work,
+    subject to the limitations in paragraph 4(a), below;
+5. rights protecting the extraction, dissemination, use and reuse of data
+    in a Work;
+6. database rights (such as those arising under Directive 96/9/EC of the
+    European Parliament and of the Council of 11 March 1996 on the legal
+    protection of databases, and under any national implementation
+    thereof, including any amended or successor version of such
+    directive); and
+7. other similar, equivalent or corresponding rights throughout the
+    world based on applicable law or treaty, and any national
+    implementations thereof.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
+## Waiver
+To the greatest extent permitted by, but not in contravention
 of, applicable law, Affirmer hereby overtly, fully, permanently,
 irrevocably and unconditionally waives, abandons, and surrenders all of
 Affirmer's Copyright and Related Rights and associated claims and causes
@@ -82,7 +84,8 @@ revocation, rescission, cancellation, termination, or any other legal or
 equitable action to disrupt the quiet enjoyment of the Work by the public
 as contemplated by Affirmer's express Statement of Purpose.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
+## Public License Fallback
+Should any part of the Waiver for any reason
 be judged legally invalid or ineffective under applicable law, then the
 Waiver shall be preserved to the maximum extent permitted taking into
 account Affirmer's express Statement of Purpose. In addition, to the
@@ -104,24 +107,22 @@ Rights in the Work or (ii) assert any associated claims and causes of
 action with respect to the Work, in either case contrary to Affirmer's
 express Statement of Purpose.
 
-4. Limitations and Disclaimers.
-
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
+## Limitations and Disclaimers
+1. No trademark or patent rights held by Affirmer are waived, abandoned,
     surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
+2. Affirmer offers the Work as-is and makes no representations or
     warranties of any kind concerning the Work, express, implied,
     statutory or otherwise, including without limitation warranties of
     title, merchantability, fitness for a particular purpose, non
     infringement, or the absence of latent or other defects, accuracy, or
     the present or absence of errors, whether or not discoverable, all to
     the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
+3. Affirmer disclaims responsibility for clearing rights of other persons
     that may apply to the Work or any use thereof, including without
     limitation any person's Copyright and Related Rights in the Work.
     Further, Affirmer disclaims responsibility for obtaining any necessary
     consents, permissions or other rights required for any use of the
     Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
+4. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
-```
