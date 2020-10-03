@@ -10,9 +10,6 @@ repo_name: elsenm/digital-garden
 edit_uri: ""
 nav:
     - Meta: index.md
-    - Contact: contact.md
-    - Disclaimer: disclaimer.md
-    - License: license.md
     - Chinese:
         - Anki: anki.md
     - Programming:
@@ -25,6 +22,9 @@ nav:
         - Java Web Start: java_web_start.md
         - Adblock: adblock.md
         - Website: website.md
+    - Contact: contact.md
+    - Disclaimer: disclaimer.md
+    - License: license.md
 theme:
     name: material
     custom_dir: overrides

@@ -1,5 +1,8 @@
-# Wiki
-* [Introduction](index.md)
+# Marvin's Digital Garden
+* [Meta](index.md)
+* [Contact](contact.md)
+* [Disclaimer](disclaimer.md)
+* [License](license.md)
 
 ## Chinese
 * [Anki](anki.md)
@@ -15,11 +18,3 @@
 * [Java Web Start](java_web_start.md)
 * [Adblock](adblock.md)
 * [Website](website.md)
-
-## Troubleshoot
-
-
-## Other
-* [License](license.md)
-* [Disclaimer](disclaimer.md)
-* [Contact](contact.md)
