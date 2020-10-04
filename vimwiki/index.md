@@ -1,14 +1,24 @@
----
-title: Introduction
-author: Marvin Elsen
----
+# Tech Stack
+This is the [tech stack](https://stackshare.io/stacks) powering this digital garden:
 
-I am Marvin Elsen.
+* [vim](https://www.vim.org)
+* [vimwiki](https://github.com/vimwiki/vimwiki)
+* [MkDocs](https://www.mkdocs.org)
+    * [mkdocs-minify](https://github.com/byrnereese/mkdocs-minify-plugin)
+    * [mkdocs-exclude](https://github.com/apenwarr/mkdocs-exclude)
+    * [mkdocs-simple-hooks](https://github.com/aklajnert/mkdocs-simple-hooks)
+    * [mkdocs-git-revision-date](https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin/)
+    * [mkdocs-git-authors-plugin](https://github.com/timvink/mkdocs-git-authors-plugin)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/)
+* [Apache HTTP Server](http://httpd.apache.org)
 
-I am a passionate German software developer and information security enthusiast.
+# Inspiration
+My digital garden is heavily inspired by the following similiar wikis:
 
-Empowering people through exceptional and great-looking software is what drives me to becoming my greatest version. Perfection and user-friendliness take the highest priority and are the reason I put more than 100% of effort into everything I do and always aim for the top.
+* [Nikita Voloboev's _Everything I know_](https://wiki.nikitavoloboev.xyz)
+* [lyz-code's _The Blue Book_](https://lyz-code.github.io/blue-book/)
+* [Gwern Branwen's personal website](https://www.gwern.net/)
+* [Joel Hooks' Digital Garden](https://joelhooks.com/)
 
-Steve Jobs has always been a huge source of inspiration and motivation for me and I am a firm believer of the UNIX Philosphy: writing short, simple, clear, modular, and extensible code. While I also do use Windows, I feel most comfortable on Linux.
-
-Apart from coding I am also skilled at creating 3D and 2D assets specifically for games and other virtual environments. When I am not busy working on projects I love to spend my time studying the Chinese language, tinkering with Linux systems and researching IT-Security topics to broaden my knowledge.
+If you are interested in creating your own digital garden, I highly recommend you to check out theirs as well!

@@ -49,6 +49,7 @@ plugins:
     - exclude:
         glob:
             - main.md
+    - git-authors
 markdown_extensions:
     - meta
     - toc:
