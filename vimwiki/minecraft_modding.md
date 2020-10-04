@@ -70,10 +70,16 @@ There are two types of resources in Minecraft:
 5. Create the `ItemBase` Java class in that package.
 6. Pase the following code:
 	```java
-	public ItemBase()
-	{
-		super(new Item.Properties().group(ItemGroup.MATERIALS));
-	}
+    public class Test {
+        public static final field;
+        // Test class
+        public ItemBase()
+        {
+            super(new Item.Properties().group(ItemGroup.MATERIALS));
+            int local = 100;
+            String test = "Test String";
+        }
+    }
 	```
 7. TODO
 

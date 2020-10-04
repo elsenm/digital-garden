@@ -220,17 +220,37 @@
 
 @media (prefers-color-scheme: dark) {
     [data-md-color-scheme="digital-garden"] {
-        --md-primary-fg-color:        #108761;
+        /* Main banner color */
+        --md-primary-fg-color:        hsla(162, 27%, 34%, 0.8);
         --md-primary-fg-color--light: #12946B;
         --md-primary-fg-color--dark:  #0D6E4F;
 
-        --md-primary-bg-color:        #000000;
-        --md-primary-bg-color--light: #000000;
+        --md-typeset-a-color:         hsla(343, 100%, 73%, 1);
+
+        --md-primary-bg-color:        #FFFFFF;
+        --md-primary-bg-color--light: #FFFFFF;
+
+        /* Main text color */
+        --md-default-fg-color:              hsla(60, 2%, 85%, 1);
+        --md-default-fg-color--light:       hsla(60, 2%, 85%, 0.7);
+        --md-default-fg-color--lighter:     hsla(60, 2%, 85%, 0.5);
+        --md-default-fg-color--lightest:    hsla(60, 2%, 85%, 0.2);
+
+        /* Main background color */
+        --md-default-bg-color:              hsla(180, 18%, 18%, 1);
 
         --md-accent-fg-color: #D42F5F;
 
         --md-footer-fg-color--light: #A3A3A3;
         --md-footer-fg-color--lighter: #808080;
+
+        /* Code colors */
+        --md-code-fg-color: hsla(60, 30%, 96%, 1);
+        --md-code-bg-color: hsla(231, 15%, 18%, 1);
+        --md-code-hl-comment-color: hsla(255, 27%, 51%, 1);
+        --md-code-hl-function-color: hsla(135, 94%, 65%, 1);
+        --md-code-hl-keyword-color: hsla(326, 100%, 74%, 1);
+        --md-code-hl-string-color: hsla(65, 92%, 76%, 1);
     }
 }
 
@@ -249,7 +269,6 @@
         --md-footer-fg-color--lighter: #808080;
     }
 }
-
 
 img {
     box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
