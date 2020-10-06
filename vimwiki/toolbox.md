@@ -90,7 +90,7 @@ This is a list of software I use.
 | Code review            | [Gerrit](https://www.gerritcodereview.com/)                                                   |
 | Project management     | [OpenProject](https://www.openproject.org/)                                                   |
 | Game engine            | [Godot](https://godotengine.org/)                                                             |
-| Color scheme           | [gruvbox](https://github.com/morhetz/gruvbox)                                                 |
+| Color scheme           | [Dracula](https://draculatheme.com), [gruvbox](https://github.com/morhetz/gruvbox)            |
 | Font                   | [Hack](https://sourcefoundry.org/hack/), [JetBrains Mono](https://www.jetbrains.com/lp/mono/) |
 | Bitmap font            | [scientifica](https://github.com/NerdyPepper/scientifica)                                     |
 
