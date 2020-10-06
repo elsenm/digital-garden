@@ -11,7 +11,7 @@ img {
 }
 ```
 
-# Improve font rendering
+# Improve Font Rendering
 Add the following .css code to your stylesheet to improve font-rendering (probably does not work on all devices and browsers):
 ```{.css linenums="1"}
 * {
