@@ -221,25 +221,25 @@
 @media (prefers-color-scheme: dark) {
     [data-md-color-scheme="digital-garden"] {
         /* Main banner color */
-        --md-primary-fg-color:        hsla(162, 27%, 34%, 0.8);
-        --md-primary-fg-color--light: #12946B;
-        --md-primary-fg-color--dark:  #0D6E4F;
+        --md-primary-fg-color:        hsla(232, 14%, 31%, 1);
 
-        --md-typeset-a-color:         hsla(343, 100%, 73%, 1);
+        /* Links */
+        --md-typeset-a-color: hsla(326, 100%, 74%, 1);
 
         --md-primary-bg-color:        #FFFFFF;
         --md-primary-bg-color--light: #FFFFFF;
 
         /* Main text color */
-        --md-default-fg-color:              hsla(60, 2%, 85%, 1);
-        --md-default-fg-color--light:       hsla(60, 2%, 85%, 0.7);
-        --md-default-fg-color--lighter:     hsla(60, 2%, 85%, 0.5);
-        --md-default-fg-color--lightest:    hsla(60, 2%, 85%, 0.2);
+        --md-default-fg-color:              hsla(60, 30%, 96%, 1);
+        --md-default-fg-color--light:       hsla(60, 30%, 96%, 1);
+        --md-default-fg-color--lighter:     hsla(60, 30%, 96%, 1);
+        --md-default-fg-color--lightest:    hsla(60, 30%, 96%, 1);
 
         /* Main background color */
-        --md-default-bg-color:              hsla(180, 18%, 18%, 1);
+        --md-default-bg-color:              #1D1E26;
 
-        --md-accent-fg-color: #D42F5F;
+        /* Accent is used for hovering over links */
+        --md-accent-fg-color: hsla(326, 100%, 50%, 1);
 
         --md-footer-fg-color--light: #A3A3A3;
         --md-footer-fg-color--lighter: #808080;
