@@ -1,4 +1,4 @@
-# Layered dreamy drop shadow for images
+# Layered Dreamy Drop Shadow For Images
 Add the following .css code to your stylesheet to add beautiful dreamy drop shadows to images:
 ```{.css linenums="1"}
 img {
@@ -23,7 +23,7 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
 }
 ```
 
-# Improve page speed
+# Improve Page Speed
 1. Create the `.htaccess` text file in the root directory of the web server.
 2. Paste the following config into the file:
     ```{.shell linenums="1"}
@@ -90,6 +90,19 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
 <link rel="me" href="mailto:contact@marvin-elsen.com">
 ```
 
+# Set Table Width to 100%
+To stretch every table to 100% of its available width in [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) add the following to your `extra.css` stylesheet.
+
+```css linenums="1"
+.md-typeset__table {
+   min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}
+```
+
 # References
 * [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
 * [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc)
@@ -100,3 +113,4 @@ Add the following .css code to your stylesheet to improve font-rendering (probab
 * [gzip bei Strato aktivieren ](https://technikkram.net/blog/2013/04/02/gzip-bei-strato-aktivieren/)
 * [How do I leverage browser caching of .woff fonts?](https://stackoverflow.com/a/28148035)
 * [A free guide to HTML5 HEAD elements](https://htmlhead.dev/)
+* [Tables cannot be set to 100% width #175](https://github.com/squidfunk/mkdocs-material/issues/175)
