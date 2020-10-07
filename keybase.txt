@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/elsenm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.marvin-elsen.com
+  * I am elsenm (https://keybase.io/elsenm) on keybase.
+  * I have a public key ASDf9oFadBa3KMXBwPYcgtNXxk6mG8u0B17djuNfFcUlbwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dff6815a7416b728c5c1c0f61c82d357c64ea61bcbb4075edd8ee35f15c5256f0a",
+      "host": "keybase.io",
+      "kid": "0120dff6815a7416b728c5c1c0f61c82d357c64ea61bcbb4075edd8ee35f15c5256f0a",
+      "uid": "903dd93dd58826bcb11f2510041b9519",
+      "username": "elsenm"
+    },
+    "merkle_root": {
+      "ctime": 1566044831,
+      "hash": "87313f4f5b946d8bf865d520132676f5d4c0b7629c41001c52fdf8d6c9784569ce0ddb3d176339d6c24362ccff03ba8a91b04791fb434192c6e59794f6071dc8",
+      "hash_meta": "ae89c70e7956a6c2dbd51b04acd02320bcc269a1f7c7108ab3ef08a9d147b02a",
+      "seqno": 6036351
+    },
+    "service": {
+      "entropy": "mvtpdGchLF+MqeU/TUnY7bTL",
+      "hostname": "www.marvin-elsen.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1566044893,
+  "expire_in": 504576000,
+  "prev": "7cc118504eb20d0a59992991635692292823bd26c05b844ac3e0cb01d9d661a6",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3/aBWnQWtyjFwcD2HILTV8ZOphvLtAde3Y7jXxXFJW8Kp3BheWxvYWTESpcCCsQgfMEYUE6yDQpZmSmRY1aSKSgjvSbAW4RKw+DLAdnWYabEIIKs4C7J13dplJgbh8cCUK/+lDfkX2y6kgt+VCLVAa6SAgHCo3NpZ8RAGOSKEEvE5MYTYk1MtXIvdShapecY61wLV4ETIgpWNOJQAnzdxNmkquUEo97Hm2gdNbbjTSoLZYiuWxjY6fJdBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAQmHssJVcExskLkqQsQrgA95rVavKRyuuXlUZ+v6pQJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elsenm
+
+==================================================================

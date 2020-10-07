@@ -232,7 +232,8 @@
         /* Main text color */
         --md-default-fg-color:              hsla(60, 30%, 96%, 1);
         --md-default-fg-color--light:       hsla(60, 30%, 96%, 1);
-        --md-default-fg-color--lighter:     hsla(60, 30%, 96%, 1);
+        /* Perma Link # color */
+        --md-default-fg-color--lighter:     hsla(326, 100%, 74%, 1);
         --md-default-fg-color--lightest:    hsla(60, 30%, 96%, 1);
 
         /* Main background color */

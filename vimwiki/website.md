@@ -103,6 +103,21 @@ To stretch every table to 100% of its available width in [Material for MkDocs](h
 }
 ```
 
+# Security Links
+* https://securitytxt.org/
+* https://spacehost.de/10-apache-header-eintraege-webseite-sicher-machen/
+* https://www.strato.de/faq/hosting/wie-kann-ich-die-htaccess-anpassen/
+
+# Tests For This Website
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmarvin-elsen.com%2F)
+* [Mozilla Observatory](https://observatory.mozilla.org/analyze/marvin-elsen.com)
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/analyze?d=marvin-elsen.com)
+* [ImmuniWeb](https://www.immuniweb.com/ssl/?id=f8leUSOn)
+* [tls.imirhil.fr](https://tls.imirhil.fr/https/marvin-elsen.com)
+* [Security Headers](https://securityheaders.com/?q=marvin-elsen.com&followRedirects=on)
+* [hstspreload.org](https://hstspreload.org/?domain=marvin-elsen.com)
+* [webbkoll](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Fmarvin-elsen.com)
+
 # References
 * [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
 * [Improving Font Rendering With CSS](https://medium.com/better-programming/improving-font-rendering-with-css-3383fc358cbc)
