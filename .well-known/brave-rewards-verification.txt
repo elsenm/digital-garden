@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: marvin-elsen.com
+Token: d886948d93aba84424c695ac88a1c4e187b6de16ab8571a74d44d0f7daf6ed27
