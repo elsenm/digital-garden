@@ -218,26 +218,26 @@
        url('../fonts/hack-bolditalic.woff') format('woff');
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) { */
     [data-md-color-scheme="digital-garden"] {
         /* Main banner color */
-        --md-primary-fg-color:        hsla(232, 14%, 31%, 1);
+        --md-primary-fg-color:              #232426;
 
         /* Links */
-        --md-typeset-a-color: hsla(326, 100%, 74%, 1);
+        --md-typeset-a-color:               #EE3A3A;
 
-        --md-primary-bg-color:        #FFFFFF;
-        --md-primary-bg-color--light: #FFFFFF;
+        --md-primary-bg-color:              #FFFFFF;
+        --md-primary-bg-color--light:       #FFFFFF;
 
         /* Main text color */
         --md-default-fg-color:              hsla(60, 30%, 96%, 1);
         --md-default-fg-color--light:       hsla(60, 30%, 96%, 1);
         /* Perma Link # color */
-        --md-default-fg-color--lighter:     hsla(326, 100%, 74%, 1);
+        --md-default-fg-color--lighter:     #EE3A3A;
         --md-default-fg-color--lightest:    hsla(60, 30%, 96%, 1);
 
         /* Main background color */
-        --md-default-bg-color:              #1D1E26;
+        --md-default-bg-color:              #101011;
 
         /* Accent is used for hovering over links */
         --md-accent-fg-color: hsla(326, 100%, 50%, 1);

@@ -3,7 +3,7 @@ site_url: https://www.marvin-elsen.com
 site_description: Marvin Elsen is a passionate German software engineer and InfoSec-enthusiast. Empowering people through exceptional, great-looking and secure software is what drives him to become his greatest version.
 site_author: Marvin Elsen
 copyright: 2020, Marvin Elsen. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">No rights reserved.</a>
-docs_dir: vimwiki
+docs_dir: docs
 site_dir: site
 repo_url: https://github.com/elsenm/digital-garden
 repo_name: elsenm/digital-garden
@@ -11,16 +11,19 @@ edit_uri: ""
 nav:
     - Meta: index.md
     - Chinese:
-        - Anki: anki.md
+        - Anki: chinese/anki.md
     - Programming:
-        - Python: python.md
-        - Minecraft Modding: minecraft_modding.md
+        - Python:
+            - Project Setup: programming/python/project_setup.md
+        - Minecraft:
+            - Modding:
+                - Project Setup: minecraft/modding/project_setup.md
     - Software:
-        - Toolbox: toolbox.md
-        - SSH: ssh.md
-        - Git: git.md
-        - Java Web Start: java_web_start.md
-        - Adblock: adblock.md
+        - Toolbox: software/toolbox.md
+        - SSH: software/ssh.md
+        - Git: software/git.md
+        - Java Web Start: software/java_web_start.md
+        - Adblock: software/adblock.md
         - Website: website.md
     - Contact: contact.md
     - Disclaimer: disclaimer.md
@@ -28,7 +31,7 @@ nav:
 theme:
     name: material
     custom_dir: overrides
-    favicon: images/favicon.svg
+    favicon: assets/images/favicon.svg
     icon:
         logo: fontawesome/solid/seedling
         repo: fontawesome/brands/github-alt
@@ -40,7 +43,7 @@ theme:
     font: false
     language: en
 extra_css:
-    - stylesheets/extra.css
+    - assets/stylesheets/extra.css
 plugins:
     - search
     - minify:
@@ -66,7 +69,7 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.tabbed
 extra:
-  manifest: manifest.webmanifest
+  manifest: assets/manifest.webmanifest
   social:
     - icon: fontawesome/brands/creative-commons-zero
       link: https://creativecommons.org/publicdomain/zero/1.0/

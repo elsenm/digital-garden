@@ -5,16 +5,16 @@ These are my Anki settings which are heavily based on the information found on t
     A shepherd builds a counting system that works by throwing a pebble into a bucket whenever a sheep leaves the fold, and taking a pebble out whenever a sheep returns. If you, the apprentice, do not understand this system—if it is magic that works for no apparent reason—then you will not know what to do if you accidentally drop an extra pebble into the bucket. That which you cannot make yourself, you cannot remake when the situation calls for it. You cannot go back to the source, tweak one of the parameter settings, and regenerate the output, without the source.
 
 === "New Cards"
-    ![Anki New Cards](images/anki_new_cards.png)
+    ![Anki New Cards](../assets/images/anki_new_cards.png)
 
 === "Reviews"
-    ![Anki Reviews](images/anki_reviews.png)
+    ![Anki Reviews](../assets/images/anki_reviews.png)
 
 === "Lapses"
-    ![Anki Lapses](images/anki_lapses.png)
+    ![Anki Lapses](../assets/images/anki_lapses.png)
 
 === "General"
-    ![Anki General](images/anki_general.png)
+    ![Anki General](../assets/images/anki_general.png)
 
 # References
 * [Anki Manual](https://docs.ankiweb.net/)
