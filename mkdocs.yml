@@ -2,7 +2,7 @@ site_name: Marvin's Digital Garden
 site_url: https://www.marvin-elsen.com
 site_description: Marvin Elsen is a passionate German software engineer and InfoSec-enthusiast. Empowering people through exceptional, great-looking and secure software is what drives him to become his greatest version.
 site_author: Marvin Elsen
-copyright: 2020, Marvin Elsen. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">No rights reserved.</a>
+copyright: 2020-2021, Marvin Elsen. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">No rights reserved.</a>
 docs_dir: docs
 site_dir: site
 repo_url: https://github.com/elsenm/digital-garden
@@ -52,7 +52,6 @@ plugins:
     - exclude:
         glob:
             - main.md
-    - git-authors
 markdown_extensions:
     - meta
     - toc:

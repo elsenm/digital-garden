@@ -4,22 +4,22 @@
   "description": "Everything Marvin knows",
   "icons": [
     {
-      "src": "/images/favicon.svg",
+      "src": "/assets/images/favicon.svg",
       "type": "image/svg+xml",
       "sizes": "any"
     },
     {
-      "src": "/images/favicon_192px.png",
+      "src": "/assets/images/favicon_192px.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/favicon_512px.png",
+      "src": "/assets/images/favicon_512px.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/images/maskable_icon.png",
+      "src": "/assets/images/maskable_icon.png",
       "type": "image/png",
       "sizes": "1024x1024",
       "purpose": "any maskable"
