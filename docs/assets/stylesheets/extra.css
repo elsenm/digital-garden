@@ -219,41 +219,41 @@
 }
 
 /* @media (prefers-color-scheme: dark) { */
-    [data-md-color-scheme="digital-garden"] {
-        /* Main banner color */
-        --md-primary-fg-color:              #232426;
+/*     [data-md-color-scheme="digital-garden"] { */
+/*         /1* Main banner color *1/ */
+/*         --md-primary-fg-color:              #232426; */
 
-        /* Links */
-        --md-typeset-a-color:               #EE3A3A;
+/*         /1* Links *1/ */
+/*         --md-typeset-a-color:               #EE3A3A; */
 
-        --md-primary-bg-color:              #FFFFFF;
-        --md-primary-bg-color--light:       #FFFFFF;
+/*         --md-primary-bg-color:              #FFFFFF; */
+/*         --md-primary-bg-color--light:       #FFFFFF; */
 
-        /* Main text color */
-        --md-default-fg-color:              hsla(60, 30%, 96%, 1);
-        --md-default-fg-color--light:       hsla(60, 30%, 96%, 1);
-        /* Perma Link # color */
-        --md-default-fg-color--lighter:     #EE3A3A;
-        --md-default-fg-color--lightest:    hsla(60, 30%, 96%, 1);
+/*         /1* Main text color *1/ */
+/*         --md-default-fg-color:              hsla(60, 30%, 96%, 1); */
+/*         --md-default-fg-color--light:       hsla(60, 30%, 96%, 1); */
+/*         /1* Perma Link # color *1/ */
+/*         --md-default-fg-color--lighter:     #EE3A3A; */
+/*         --md-default-fg-color--lightest:    hsla(60, 30%, 96%, 1); */
 
-        /* Main background color */
-        --md-default-bg-color:              #101011;
+/*         /1* Main background color *1/ */
+/*         --md-default-bg-color:              #101011; */
 
-        /* Accent is used for hovering over links */
-        --md-accent-fg-color: hsla(326, 100%, 50%, 1);
+/*         /1* Accent is used for hovering over links *1/ */
+/*         --md-accent-fg-color: hsla(326, 100%, 50%, 1); */
 
-        --md-footer-fg-color--light: #A3A3A3;
-        --md-footer-fg-color--lighter: #808080;
+/*         --md-footer-fg-color--light: #A3A3A3; */
+/*         --md-footer-fg-color--lighter: #808080; */
 
-        /* Code colors */
-        --md-code-fg-color: hsla(60, 30%, 96%, 1);
-        --md-code-bg-color: hsla(231, 15%, 18%, 1);
-        --md-code-hl-comment-color: hsla(255, 27%, 51%, 1);
-        --md-code-hl-function-color: hsla(135, 94%, 65%, 1);
-        --md-code-hl-keyword-color: hsla(326, 100%, 74%, 1);
-        --md-code-hl-string-color: hsla(65, 92%, 76%, 1);
-    }
-}
+/*         /1* Code colors *1/ */
+/*         --md-code-fg-color: hsla(60, 30%, 96%, 1); */
+/*         --md-code-bg-color: hsla(231, 15%, 18%, 1); */
+/*         --md-code-hl-comment-color: hsla(255, 27%, 51%, 1); */
+/*         --md-code-hl-function-color: hsla(135, 94%, 65%, 1); */
+/*         --md-code-hl-keyword-color: hsla(326, 100%, 74%, 1); */
+/*         --md-code-hl-string-color: hsla(65, 92%, 76%, 1); */
+/*     } */
+/* } */
 
 @media (prefers-color-scheme: light){
     [data-md-color-scheme="digital-garden"] {
