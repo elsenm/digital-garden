@@ -15,9 +15,6 @@ nav:
     - Programming:
         - Python:
             - Project Setup: programming/python/project_setup.md
-        - Minecraft:
-            - Modding:
-                - Project Setup: minecraft/modding/project_setup.md
     - Software:
         - Toolbox: software/toolbox.md
         - SSH: software/ssh.md
