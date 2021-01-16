@@ -12,11 +12,6 @@
 ### Python
 * [Project Setup](programming/python/project_setup.md)
 
-## Minecraft
-
-### Modding
-* [Project Setup](minecraft/modding/project_setup.md)
-
 ## Software
 * [Toolbox](software/toolbox.md): _Tools that I use_
 * [SSH](software/ssh.md)

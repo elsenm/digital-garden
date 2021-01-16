@@ -9,7 +9,11 @@ repo_url: https://github.com/elsenm/digital-garden
 repo_name: elsenm/digital-garden
 edit_uri: ""
 nav:
-    - Meta: index.md
+    - Meta: 
+        - About: index.md
+        - Contact: contact.md
+        - Disclaimer: disclaimer.md
+        - License: license.md
     - Chinese:
         - Anki: chinese/anki.md
     - Programming:
@@ -22,9 +26,6 @@ nav:
         - Java Web Start: software/java_web_start.md
         - Adblock: software/adblock.md
         - Website: website.md
-    - Contact: contact.md
-    - Disclaimer: disclaimer.md
-    - License: license.md
 theme:
     name: material
     custom_dir: overrides
@@ -35,6 +36,8 @@ theme:
     features:
         - navigation.instant
         - navigation.tabs
+        - navigation.sections
+        - toc.integrate
     palette:
         scheme: digital-garden
     font: false
