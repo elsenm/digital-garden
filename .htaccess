@@ -8,7 +8,7 @@ Header set X-XSS-Protection "1; mode=block"
 Header append X-Frame-Options "SAMEORIGIN"
 Header unset X-Powered-By
 Header unset Server
-Header set Content-Security-Policy: "default-src 'none'; script-src 'self' 'sha256-3Cd4i0+hIH0TyYigQKja4NGLvQAroxsPq4o0Of50gao=' 'sha256-ZpaBkET9P6NPSyE4MvYycfnI+An0Cp9qJcjYsvrXOrM='; font-src 'self'; manifest-src 'self'; connect-src 'self' https://api.github.com/repos/elsenm/digital-garden; img-src 'self' data:; style-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'"
+Header set Content-Security-Policy: "default-src 'none'; script-src 'self' 'sha256-3Cd4i0+hIH0TyYigQKja4NGLvQAroxsPq4o0Of50gao=' 'sha256-ypuYkBkcWr8k55xFd0xa6mjDRotoKaMp+3lQHmTwS2c=' 'sha256-ZpaBkET9P6NPSyE4MvYycfnI+An0Cp9qJcjYsvrXOrM='; font-src 'self'; manifest-src 'self'; connect-src 'self' https://api.github.com/repos/elsenm/digital-garden; img-src 'self' data:; style-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'"
 Header set Permissions-Policy "accelerometer=(),camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), usb=()"
 Header set Referrer-Policy "no-referrer"
 
