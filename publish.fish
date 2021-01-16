@@ -2,7 +2,7 @@
 echo 'Optimizing JPEG images...'
 jpegoptim -ptsq (ls -d docs/assets/images/* | string match -er '.jpg|.jpeg|.JPG|.JPEG')
 echo 'Optimizing PNG images...'
-optipng -strip -preserve -o7 -quiet (ls -d docs/assets/images/* | string match -er '.png|.PNG')
+optipng -strip all -preserve -o7 -quiet (ls -d docs/assets/images/* | string match -er '.png|.PNG')
 echo 'Adding changes to git...'
 git add .
 echo 'Committing changes to git...'
