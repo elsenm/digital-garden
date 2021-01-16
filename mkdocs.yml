@@ -2,7 +2,7 @@ site_name: Marvin's Digital Garden
 site_url: https://www.marvin-elsen.com
 site_description: Marvin Elsen is a passionate German software engineer and InfoSec-enthusiast. Empowering people through exceptional, great-looking and secure software is what drives him to become his greatest version.
 site_author: Marvin Elsen
-copyright: 2020-2021, Marvin Elsen. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">No rights reserved.</a>
+copyright: 2020 - 2021, Marvin Elsen. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">No rights reserved.</a>
 docs_dir: docs
 site_dir: site
 repo_url: https://github.com/elsenm/digital-garden
@@ -78,14 +78,6 @@ extra:
       link: mailto:contact@marvin-elsen.com
       name: Send me an eMail
 
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/elsen_marvin
-      name: Follow me on Twitter
-
-    - icon: fontawesome/brands/keybase
-      link: https://keybase.io/elsenm
-      name: Send me an encrypted message on Keybase
-
     - icon: fontawesome/brands/github
       link: https://github.com/elsenm
       name: Take a look at my code over on GitHub
@@ -113,7 +105,3 @@ extra:
     - icon: fontawesome/regular/comment-dots
       link: https://threema.id/MF5ZZ4RB
       name: Chat with me on Threema
-
-    - icon: fontawesome/brands/reddit-alien
-      link: https://www.reddit.com/user/elsenm
-      name: Follow me on reddit
