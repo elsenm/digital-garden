@@ -16,6 +16,8 @@ nav:
         - License: license.md
     - Chinese:
         - Anki: chinese/anki.md
+    - Tea:
+        FAQ: tea/faq.md
     - Programming:
         - Python:
             - Project Setup: programming/python/project_setup.md

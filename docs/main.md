@@ -7,6 +7,9 @@
 ## Chinese
 * [Anki](chinese/anki.md)
 
+## Tea
+* [FAQ](tea/faq.md)
+
 ## Programming
 
 ### Python
