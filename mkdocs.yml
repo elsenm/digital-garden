@@ -9,8 +9,9 @@ repo_url: https://github.com/elsenm/digital-garden
 repo_name: elsenm/digital-garden
 edit_uri: ""
 nav:
+    - Home: index.md
     - Meta: 
-        - About: index.md
+        - About: about.md
         - Contact: contact.md
         - Disclaimer: disclaimer.md
         - License: license.md
