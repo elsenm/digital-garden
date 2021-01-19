@@ -6,4 +6,6 @@
 | Stack Overflow | [elsenm](https://stackoverflow.com/users/11941114/elsenm)   |
 | XING           | [Marvin Elsen](https://www.xing.com/profile/Marvin_Elsen2)  |
 | LinkedIn       | [Marvin Elsen](https://www.linkedin.com/in/marvin-elsen)    |
+| LINE           | Marvin Elsen](https://line.me/ti/p/fw6_p8JvX_)              |
 | Threema        | [MF5ZZ4RB](https://threema.id/MF5ZZ4RB)                     |
+
