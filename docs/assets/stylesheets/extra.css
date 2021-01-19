@@ -255,7 +255,8 @@
 /*     } */
 /* } */
 
-@media (prefers-color-scheme: light){
+/* @media (prefers-color-scheme: light){ */
+@media {
     [data-md-color-scheme="digital-garden"] {
         --md-primary-fg-color:        #108761;
         --md-primary-fg-color--light: #12946B;
