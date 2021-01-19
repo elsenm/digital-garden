@@ -1,0 +1,19 @@
+---
+title: Goodbye Instagram
+hide:
+  - navigation
+  - toc
+---
+
+!!! quote "[Article 12 of the Universal Declaration of Human Rights (UDHR), 1948](https://www.un.org/en/universal-declaration-human-rights/)"
+	No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+
+If you are reading this, you have probably just come from my Instagram account, which will be deleted within the next 48 hours. This is my personal website. Compared to Instagram, it doesn't track you. You are not required to setup an account to enjoy this site to its fullest. There are no cookies, no Facebook Like buttons, no analytics and no ads. Your data is not shared with anyone, including myself. It's hosted by a German service provider with its datacenters in Germany, so your connection data is protected by the [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj). This website does not require Javascript to be functional, unless you want to use the search bar in the top right corner. Not only is the [website itself open-source](https://github.com/elsenm/digital-garden), but it also [solely consists of open-source software](/about/#tech-stack). There is no magical algorithm in the background psycho-analysing and manipulating you. On top of that, the contents of this website is [public domain](/license). My website respects your human rights.
+
+!!! quote "Tristan Harris, former design ethicist at Google and co-founder of Centre for Humane Technologies"
+	If something is a tool, it genuinely is just sitting there, waiting patiently. If something is not a tool it's demanding things from you. It's seducing you, it’s manipulating you, it wants things from you. We've moved away from a tools based technology environment, to an addiction and manipulation used technology environment. Social media isn't a tool waiting to be used. It has its own goals, and it has its own means of pursuing them by using your psychology against you.
+
+Initially I had the idea to use this chance to raise awareness about the dangers of social media, and especially companies like Facebook, but [many people have done so quite thoroughly before me](https://duckduckgo.com/?q=Why+you+should+quit+social+media) and way more in-depth than I could ever manage, so I will leave the fearmongering aside (for now). Apart from that, I am sure that most of you are already aware of the ever growing negative impact of social media on our society, but actively ignore and accept it, just as I had this whole time. For me, this year is not a year of progress -- it is a year of going back to my roots. Returning to those core values that have shaped me into the person I am today. This includes deleting all of my social media accounts. If you are in any way, shape or form interested in what I am up to, regularly check back to this website or just give me call or send me a message. If you have my phone number, chances are we are already in contact via another messenger. Otherwise move over to my [contact](/contact) page to figure out how to get in touch with me. Check out the [Meta section](/about) to understand what this website is all about. That's really all there is to it, so have a thought-provoking quote before you leave. Don't worry,  it's on the house.
+
+!!! quote "Jaron Lainer, computer scientist and virtual reality pioneer"
+    We've created a world in which online connection has become primary. Especially for younger generations. And yet, in that world, anytime two people connect, the only way it's financed is through a sneaky third person who's paying to manipulate those two people. So we've created an entire global generation of people who were raised within a context with the very meaning of communication, the very meaning of culture, is manipulation.
