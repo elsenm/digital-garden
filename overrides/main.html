@@ -8,9 +8,32 @@
     <meta name="rating" content="General">
     <meta name="referrer" content="no-referrer">
 
-    <link rel="license" href="/license/">
+    <link rel="license" href="/meta/license/">
     <link rel="me" href="mailto:contact@marvin-elsen.com">
     <link rel="mask-icon" href="assets/images/favicon.svg" color="#108761">
     <link rel="apple-touch-icon" href="assets/images/favicon_192px.png">
     <meta name="color-scheme" content="light">
+	
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml" title="RSS feed of created content" href="{{ config.site_url }}feed_rss_created.xml">
+	<link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="{{ config.site_url }}feed_rss_updated.xml">
+{% endblock %}
+
+{% block content %}
+	
+	{% if page.url_to_pdf %}
+		<a href="{{ page.url_to_pdf }}" title="Site PDF" class="md-content__button md-icon">
+			{% include ".icons/material/pdf-box.svg" %}
+		</a>
+	{% endif %}
+
+	{{ super() }}
+
+	{% if git_page_authors %}
+		<div class="md-source-date">
+			<small>
+				Authors: {{ git_page_authors | default('enable mkdocs-git-authors-plugin') }}
+			</small>
+		</div>
+	{% endif %}
 {% endblock %}

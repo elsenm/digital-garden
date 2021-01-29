@@ -8,27 +8,6 @@ site_dir: site
 repo_url: https://github.com/elsenm/digital-garden
 repo_name: elsenm/digital-garden
 edit_uri: ""
-nav:
-    - Home: index.md
-    - Meta: 
-        - About: about.md
-        - Contact: contact.md
-        - Disclaimer: disclaimer.md
-        - License: license.md
-    - Chinese:
-        - Anki: chinese/anki.md
-    - Tea:
-        FAQ: tea/faq.md
-    - Programming:
-        - Python:
-            - Project Setup: programming/python/project_setup.md
-    - Software:
-        - Toolbox: software/toolbox.md
-        - SSH: software/ssh.md
-        - Git: software/git.md
-        - Java Web Start: software/java_web_start.md
-        - Adblock: software/adblock.md
-        - Website: website.md
 theme:
     name: material
     custom_dir: overrides
@@ -49,12 +28,29 @@ extra_css:
     - assets/stylesheets/extra.css
 plugins:
     - search
+    - macros
     - minify:
         minify_html: true
-    - git-revision-date
-    - exclude:
-        glob:
-            - main.md
+    - section-index
+    - literate-nav:
+        nav_file: README.md
+    - git-authors:
+        show_contribution: false
+        show_line_count: false
+        count_empty_lines: false
+    - git-revision-date-localized:
+        type: date
+        timezone: Europe/Berlin
+        fallback_to_build_date: true
+    - rss:
+        abstract_chars_count: 160
+        date_from_meta:
+            as_creation: "date"
+            as_update: false
+        datetime_format: "%Y-%m-%d"
+        feed_ttl: 1440
+        length: 20
+        pretty_print: false
 markdown_extensions:
     - meta
     - toc:
