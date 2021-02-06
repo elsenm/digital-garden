@@ -33,6 +33,21 @@ My digital garden is heavily inspired by the following similiar wikis:
 
 If you are interested in creating your own digital garden, I highly recommend you to check out theirs as well!
 
+# Git Commit Messages
+If you are reading this on [GitHub](https://github.com/elsenm/digital-garden) or are interested in checking out the [commit history](https://github.com/elsenm/digital-garden/commits/master) of this website, you should know that I prefix each commit message with a specific type depending on the contained changes.
+
+Here's an explanation of what each type roughly means:
+
+- **New:** _New page about a topic/sub-topic that does not exist yet_
+- **Edit:** _Minor edits on existing text content of a page (grammar, typo, accident, misstatement, etc)_
+- **Continue:** _Continue writing on an existing page (more information, figures, references, etc)_
+- **Style:** _Edit formatting or minorly change structure of text or design of the website (font, colors, etc)_
+- **Structure:** _Major changes to the structure of the content (moving pages, splitting topics up into sub-topics, introducing redirects, etc)_
+- **Meta:** _Adding new MkDocs plugins, changing something on the build process, or changing configuration_
+
+!!! note
+	Please note that I haven't always used this format for commit messages, so older commits will not adhere to this template.
+
 # Site Structure
 
 <!--nav-->
