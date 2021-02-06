@@ -1,0 +1,10 @@
+[core]
+	editor = vim
+	autocrlf = true
+[user]
+	email = development@marvin-elsen.com
+	name = Marvin Elsen
+	signingkey = 4C94573FFD8EFDD8
+[commit]
+	gpgsign = true
+	template = C:/Users/elsenm/.git_commit_template
