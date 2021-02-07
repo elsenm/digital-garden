@@ -82,3 +82,4 @@ Here's an explanation of what each type roughly means:
 		* [SSH](software/ssh.md)
 		* [Git](software/git.md)
 		* [Java Web Start](software/java_web_start.md)
+* [Quotes](other/quotes.md)
