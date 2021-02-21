@@ -6,6 +6,14 @@ hide:
 
 This is a list of quotes I think are cool or inspirational.
 
+!!! quote "老子的《道德經》"
+	知人者智，知己者明。勝人者有力，勝己者強。
+
+
+!!! quote "[Frederick Phillips "Fred" Brooks Jr., The Mythical Man-Month: Essays on Software Engineering (1975, 1995)](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)"
+	The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.... Yet the program construct, unlike the poet's words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. […] The magic of myth and legend has come true in our time. One types the correct incantation on a keyboard, and a display screen comes to life, showing things that never were nor could be.
+
+
 !!! quote "[Abelson and Sussman, Structure and Interpretation of Computer Programs (1984)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)"
 	A computational process is indeed much like a sorcerer’s idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory. The programs we use to conjure processes are like a sorcerer’s spells.
 
