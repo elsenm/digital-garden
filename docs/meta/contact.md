@@ -1,8 +1,8 @@
 # Services
-This is an exhaustive list of services and my contact information that you can use to reach out to me. While I also do use WhatsApp and Signal, I generally do not hand out my phone number.
+This is an exhaustive list of services and my contact information that you can use to reach out to me. While I also do use Signal, I generally do not hand out my phone number.
 
 !!! danger
-	Please note that I am not registered on and do not use any services other than the ones listed down below. I especially do not use Facebook, Instagram, Twitter, Snapchat, Reddit or any other social media platform. Should you find a person on any website or app which is not listed here with my name or profile picture, be aware that that person is **not** me and you are conversing with an impostor. If in doubt whether you are truly communicating with me, ask the person to sign a message with my [PGP key posted down below](#pgp-key) and verify the signature.
+	Please note that I am not registered on and do not use any services other than the ones listed down below. I especially do not use Facebook, Instagram, Twitter, Snapchat, Reddit, WhatsApp or any other social media platform. Should you find a person on any website or app which is not listed here with my name or profile picture, be aware that that person is **not** me and you are conversing with an impostor. If in doubt whether you are truly communicating with me, ask the person to sign a message with my [PGP key posted down below](#pgp-key) and verify the signature.
 
 | Platform       | Username                                                    |
 |----------------|-------------------------------------------------------------|
