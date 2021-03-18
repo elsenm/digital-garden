@@ -60,6 +60,7 @@ Here's an explanation of what each type roughly means:
 	* [License](meta/license.md)
 * Chinese
 	* [Anki](chinese/anki.md)
+	* [華語文能力測驗](chinese/tocfl.md)
 * Tea
 	* [What is Tea?](tea/what-is-tea.md)
 	* [Types of Tea](tea/types-of-tea.md)
