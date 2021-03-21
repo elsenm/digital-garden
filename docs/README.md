@@ -67,6 +67,7 @@ Here's an explanation of what each type roughly means:
 	* FAQ
 		* [Fermented or Oxidized](tea/fermented-or-oxidized.md)
 		* [Oolong vs. Qing Cha](tea/qing-cha.md)
+		* [Best Water](tea/tea-water.md)
 	* Health Concerns
 		* [Esophageal Cancer](tea/esophageal-cancer.md)
 		* [Heavy Metals](tea/heavy-metals.md)
