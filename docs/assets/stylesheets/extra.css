@@ -224,3 +224,14 @@ pre, code, kbd {
   -webkit-mask-image: var(--md-admonition-icon--pgp-key);
           mask-image: var(--md-admonition-icon--pgp-key);
 }
+
+.md-typeset .rss {
+    color: #ee802f;
+    display: inline-flex;
+    height: 1.5em;
+    vertical-align: text-top;
+}
+
+.md-announce .rss {
+    margin-left: .2em;
+}

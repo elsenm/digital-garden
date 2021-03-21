@@ -19,6 +19,17 @@
 	<link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="{{ config.site_url }}/feed_rss_updated.xml">
 {% endblock %}
 
+
+{% block announce %}
+    To stay up-to-date subscribe to the newly added
+    <span class="twemoji rss">
+      {% include ".icons/fontawesome/solid/rss-square.svg" %}
+    </span>
+    <a href="/feed_rss_created.xml">
+    <strong>RSS feed</strong>
+  </a>
+{% endblock %}
+
 {% block content %}
 	
 	{% if page.url_to_pdf %}
